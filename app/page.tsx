@@ -63,7 +63,7 @@ export default function PerksAcademyInteractive() {
   const handleToggleSports = () => {
     setShowAll(!showAll);
     if (showAll) {
-      document.getElementById('programs').scrollIntoView({ behavior: 'smooth', block: 'start' });
+      document.getElementById('programs')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
   };
 
