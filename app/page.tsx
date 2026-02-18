@@ -357,7 +357,7 @@ export default function PerksAcademyInteractive() {
         <div className="footer-base">
           <div className="container base-flex">
             <p>© 2026 Perks Sports Academy. All Rights Reserved.</p>
-            <p>Designed by NetVantage Systems Private Limited</p>
+            <p>Developed by Apex Info Sys Solutions</p>
           </div>
         </div>
       </footer>
