@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "PERKS Sports Academy | Proffessional Sports Training in India",
   description: "PERKS Sports Academy is a premier sports training facility in India, offering professional coaching and state-of-the-art facilities for athletes of all levels. Our mission is to nurture talent and help athletes achieve their full potential through personalized training programs and expert guidance.",
+  icons: {
+    icon: "/images/logo-2.png",
+  },
 };
 
 export default function RootLayout({
